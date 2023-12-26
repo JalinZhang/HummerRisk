@@ -124,7 +124,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxb-provider</artifactId>
-            <version>6.2.3.Final</version>
+            <version>6.2.6.Final</version>
         </dependency>
         <dependency>
             <groupId>com.github.xiaoymin</groupId>
