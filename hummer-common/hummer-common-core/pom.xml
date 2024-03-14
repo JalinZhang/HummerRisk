@@ -707,7 +707,7 @@
         <dependency>
             <groupId>io.kubernetes</groupId>
             <artifactId>client-java</artifactId>
-            <version>18.0.0</version>
+            <version>20.0.1</version>
         </dependency>
         <!-- Kubernetes -->
 
@@ -753,7 +753,7 @@
         <dependency>
             <groupId>com.baidubce</groupId>
             <artifactId>bce-java-sdk</artifactId>
-            <version>0.10.244</version>
+            <version>0.10.298</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
