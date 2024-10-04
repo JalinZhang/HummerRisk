@@ -25,12 +25,12 @@
         <pagehelper.version>5.3.0</pagehelper.version>
         <druid.version>1.2.15</druid.version>
         <dynamic-ds.version>3.5.2</dynamic-ds.version>
-        <commons.io.version>2.11.0</commons.io.version>
+        <commons.io.version>2.14.0</commons.io.version>
         <commons.fileupload.version>1.4</commons.fileupload.version>
         <fastjson.version>2.0.22</fastjson.version>
         <jjwt.version>0.9.1</jjwt.version>
         <minio.version>8.2.2</minio.version>
-        <poi.version>5.2.3</poi.version>
+        <poi.version>5.2.5</poi.version>
         <transmittable-thread-local.version>2.14.2</transmittable-thread-local.version>
         <knife4j.version>3.0.3</knife4j.version>
         <guava.version>31.1-jre</guava.version>
