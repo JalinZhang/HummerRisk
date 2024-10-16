@@ -298,7 +298,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-ec2</artifactId>
-            <version>1.12.319</version>
+            <version>1.12.773</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
@@ -564,7 +564,7 @@
         <dependency>
             <groupId>com.qcloud</groupId>
             <artifactId>cos_api</artifactId>
-            <version>5.6.115</version>
+            <version>5.6.234</version>
         </dependency>
         <!-- tencent -->
 
@@ -707,7 +707,7 @@
         <dependency>
             <groupId>io.kubernetes</groupId>
             <artifactId>client-java</artifactId>
-            <version>18.0.0</version>
+            <version>21.0.2</version>
         </dependency>
         <!-- Kubernetes -->
 
