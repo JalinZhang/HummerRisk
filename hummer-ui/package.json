@@ -30,7 +30,7 @@
     "js-base64": "^3.4.4",
     "js-cookie": "^3.0.1",
     "json-bigint": "^1.0.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "^4.0.0",
     "less-loader": "^3.0.0",
     "mathjs": "^11.8.0",
     "md5": "^2.3.0",
