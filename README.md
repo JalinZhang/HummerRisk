@@ -17,6 +17,9 @@
 </p>
 <hr/>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJalinZhang%2FHummerRisk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJalinZhang%2FHummerRisk?ref=badge_large)
+
 ## HummerRisk 是什么
 
 > HummerRisk 是开源的云原生安全平台，以非侵入的方式解决云原生的安全和治理问题。核心能力包括混合云的安全治理和云原生安全检测。
@@ -69,6 +72,7 @@ HummerRisk is an opensource cloud-native security platform. It resolve the  clou
 ## UI 展示
 
 ![UI 展示](./hummer-ui/src/assets/img/gif/hummerrisk.gif)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJalinZhang%2FHummerRisk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJalinZhang%2FHummerRisk?ref=badge_shield)
 
 > 更多优质功能持续迭代中...
 
